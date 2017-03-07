@@ -7,3 +7,4 @@ ompiled source #
 *.o
 *.so
 *.pyc
+DS_Store
